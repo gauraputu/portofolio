@@ -9,7 +9,11 @@ module.exports = {
     },
   },
   variants: {
-    extend: {},
+    extend: {
+      backgroundColor: ['active'],
+      scale: ['active'],
+      transitionDelay: ['active'],
+    },
   },
   plugins: [],
 }
