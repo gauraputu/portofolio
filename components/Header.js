@@ -2,7 +2,7 @@ import Head from 'next/head';
 
 const Header = () => (
     <Head>
-        <title>gaura - blog</title>
+        <title>gaura - portofolio</title>
     </Head>
 );
 
