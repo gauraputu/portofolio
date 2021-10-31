@@ -1,11 +1,2 @@
-Look up my portfolio [here](https://gauraputu.github.io/)
+Look up my portfolio @ [https://portofolio-gaura.vercel.app/](https://portofolio-gaura.vercel.app/)
 =======
-
-[version badge here]
-
-
-depedency
-`npm install purecss --save`
-`npm install bootstrap@next`
-
-
